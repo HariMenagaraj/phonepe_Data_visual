@@ -3,7 +3,6 @@ from streamlit_option_menu import option_menu
 import pandas as pd
 import sqlite3
 import streamlit
-from streamlit_option_menu import option_menu
 import plotly.express as px
 import os
 import requests
